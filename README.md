@@ -17,3 +17,9 @@ I am an engineering enthusiast passionate about technology, aviation, and proble
 
 ## 📬 Get in Touch
 - **Email:** abdulsametatesmain@gmail.com
+
+### 🚀 Projects
+
+[![My First Repo](https://img.shields.io/badge/GitHub-First_Project:_Project_Name-238636?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/kullaniciadin/ilk-repo-adi](https://github.com/abdulsametates/file-organizer))
+
+> This repository marks my first step and the beginning of my development journey.
