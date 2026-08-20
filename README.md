@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Abdulsamet Ateş
+### Future Computer / Aerospace Engineering Student
 
-<!--
-**abdulsametates/abdulsametates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering enthusiast passionate about technology, aviation, and problem-solving. I use this profile to showcase my self-development journey and projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests & Focus Areas
+- ✈️ **Aerospace & Aviation:** Researching aerodynamics, model aircraft design, and UAV technologies.
+- 💻 **Computer Technologies:** Exploring hardware architectures, AI trends, and system analysis.
+- 🛠️ **Engineering Tools:** Working with CAD software (SolidWorks/Fusion360) and fundamental engineering calculation logic.
+
+## 📚 What I'm Currently Working On
+- Strengthening my foundational math and physics skills in preparation for engineering faculty.
+- Reading technical articles and reports on UAV/UAS technologies.
+- Exploring and developing fundamental algorithmic thinking.
+
+## 📬 Get in Touch
+- **Email:** abdulsametatesmain@gmail.com
